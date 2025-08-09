@@ -78,7 +78,7 @@
     "semver": "^5.0.3",
     "superstatic": "^5.0.2",
     "tar": "^4.3.0",
-    "tmp": "0.0.33",
+    "tmp": "0.2.4",
     "universal-analytics": "^0.4.16",
     "update-notifier": "^0.5.0",
     "user-home": "^2.0.0",
